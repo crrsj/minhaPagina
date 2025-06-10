@@ -17,4 +17,3 @@ A página apresenta:
 
 Uma breve introdução sobre mim e minha jornada.
 Uma lista detalhada dos meus cursos e formações em desenvolvimento (com foco em Java).
-Um link direto para o meu perfil no GitHub, onde estão meus projetos.
